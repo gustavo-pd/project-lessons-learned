@@ -77,4 +77,6 @@ aside {
   font-style: italic;
 }
 
-footer { background-color: rgb(24, 83, 24); }
+footer {
+  background-color: rgb(24, 83, 24); 
+} 
