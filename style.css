@@ -5,7 +5,7 @@ body {
     background-color: rgb(253, 251, 251);
 }
 
-p, li {
+p , li {
     color: dimgray;
     font-size: 15px;
 }
@@ -23,7 +23,7 @@ header {
     height: 80px;
     padding-top: 30px;
 }
-  
+
 #cabecalho {
     position: fixed;
     top: 0;
@@ -55,28 +55,27 @@ main {
 }
 
 .lado-direito {
-      float: right;
+    float: right;
 }
 
 .lado-esquerdo {
-      float: left;
-      width: 40%;
+    float: left;
+    width: 40%;
 }
 
 .mainb {
-      padding: 30px 0;
-      height: 250px;
+    padding: 30px 0;
+    height: 250px;
 }
 
 .container {
-      width: 70%;
-      margin: 0 auto;
+    width: 70%;
+    margin: 0 auto;
 }
 
 aside {
-      font-style: italic;
+    font-style: italic;
 }
 
 footer {
-      background-color: rgb(24, 83, 24);
-}
+    background-color: rgb(24, 83, 24);}
