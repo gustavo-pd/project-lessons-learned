@@ -54,11 +54,11 @@ main {
     float: right;
 }
 
-.ladodireito {
+.lado-direito {
       float: right;
 }
 
-.ladoesquerdo {
+.lado-esquerdo {
       float: left;
       width: 40%;
 }
