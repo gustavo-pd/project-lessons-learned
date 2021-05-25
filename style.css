@@ -1,0 +1,17 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(253, 251, 251)
+}
+
+p, li {
+    color:dimgray;
+    font-size: 15px;
+}
+
+h1 {
+    color:blueviolet;
+    font-size: 30px;
+    letter-spacing: -1px;
+    line-height: 40px;
+    font-weight: 100;
+}
