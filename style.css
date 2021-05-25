@@ -39,3 +39,12 @@ main {
     display: inline-block;
     margin-left: 30px;
 }
+
+#licoes_aprendidas {
+    color:rgb(37, 12, 107);
+    font-size: 20px;
+    letter-spacing: -1px;
+    line-height: 25px;
+    font-weight: 50;
+
+}
