@@ -9,9 +9,23 @@ p, li {
 }
 
 h1 {
-    color:blueviolet;
+    color:rgb(24, 83, 24);
     font-size: 30px;
     letter-spacing: -1px;
     line-height: 40px;
     font-weight: 100;
 }
+
+
+header {
+    height: 80px;
+    padding-top: 30px;
+  }
+  
+  #cabecalho {
+    position:fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    background-color:dimgray
+  }
