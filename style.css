@@ -1,3 +1,5 @@
+@@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
 body {
     font-family: 'Ubuntu', sans-serif;
     background-color: rgb(253, 251, 251);
@@ -24,8 +26,8 @@ header {
   
 #cabecalho {
     position: fixed;
-    top:0;
-    width:100%;
+    top: 0;
+    width: 100%;
     text-align: center;
     background-color: dimgray;
   }
